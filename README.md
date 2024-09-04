@@ -89,3 +89,6 @@ Perform EDA and visualize insights.
 Train the models and evaluate performance.
 
 Explore the Tableau dashboard for interactive insights
+
+## Tableau Dashboard
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/HeartDiseaseDataVisualization_17254256599980/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop).
